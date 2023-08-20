@@ -1,0 +1,48 @@
+feature name,cc
+EVs registered,1
+median mortgage repayment,0.300848731
+MALES_Occupation_Professionals,0.230144685
+completed year 12,0.198703487
+Born elsewhere,0.195089964
+median rent,0.183698095
+FEMALES_Professionals,0.170504643
+median income,0.159088149
+MALES_Clerical_and_administrative_workers,0.153160483
+median household income,0.114851237
+MALES_Sales_workers,0.08826936
+student 25+,0.083964148
+85+,0.081425179
+20_24,0.07829017
+student 20_24,0.077754305
+75_84,0.074931822
+45_54,0.074078217
+25_34,0.074074172
+male percentage,0.068027915
+55_64,0.067801009
+65_74,0.06627335
+35_44,0.064882422
+15_19,0.058881198
+Did not go to school,0.046206794
+MALES_Community_and_personal_service_workers,0.017701464
+FEMALES_Clerical_and_administrative_workers,-0.004590117
+student 15_19,-0.01498228
+female not married,-0.015862347
+FEMALES_Sales_workers,-0.034246045
+FEMALES_Technicians_and_trades_workers,-0.05652894
+FEMALES_Managers,-0.064481377
+FEMALES_Machinery_operators_and_drivers,-0.064953395
+total not married,-0.102001541
+MALES_Technicians_and_trades_workers,-0.120840558
+MALES_Occupation_Managers,-0.140717874
+female percentage,-0.145478602
+completed year 8,-0.153934202
+male not married,-0.172475914
+FEMALES_Labourers,-0.213212532
+MALES_Machinery_operators_and_drivers,-0.214131804
+FEMALES_Community_and_personal_service_workers,-0.215246426
+completed year 9,-0.248224073
+MALES_Labourers,-0.253315202
+completed year 11,-0.28047332
+completed year 10,-0.303074095
+citizen,-0.337846738
+Born in Aus,-0.338386342
